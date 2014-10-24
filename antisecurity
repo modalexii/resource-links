@@ -1,0 +1,10 @@
+Windows
+
+    The Backdoor Factory (BDF)
+        The goal of BDF is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state.
+        https://github.com/secretsquirrel/the-backdoor-factory
+        
+Nix
+    
+    Collection of Proof of Concepts and Potential Targets for #ShellShocker
+    https://github.com/mubix/shellshocker-pocs/
