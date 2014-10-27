@@ -4,6 +4,10 @@ Windows
         The goal of BDF is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state.
         https://github.com/secretsquirrel/the-backdoor-factory
         
+    Windows OLE RCE Exploit MS14-060 (CVE-2014-4114) – Sandworm
+        Pytohn PoC for code execution via PPSE file
+        http://www.securitysift.com/windows-ole-rce-exploit-ms14-060/
+        
 Nix
     
     Collection of Proof of Concepts and Potential Targets for #ShellShocker
