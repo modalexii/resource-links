@@ -1,0 +1,7 @@
+Server
+
+    Deploying TLS the hard way
+    Last weekend I finally deployed TLS for timtaubert.de and decided to write up what I learned on the way hoping that it would be useful for anyone doing the same. Instead of only giving you a few buzz words I want to provide background information on how TLS and certain HTTP extensions work and why you should use them or configure TLS in a certain way.
+    https://timtaubert.de/blog/2014/10/deploying-tls-the-hard-way/
+
+Client
