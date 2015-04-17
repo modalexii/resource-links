@@ -16,3 +16,8 @@ Nix
     
     Collection of Proof of Concepts and Potential Targets for #ShellShocker
     https://github.com/mubix/shellshocker-pocs/
+
+Misc
+
+    HTML leak test - send an html doc, e.g. through email, see what elements result in requests to your server
+    https://github.com/cure53/HTTPLeaks/blob/master/leak.html
