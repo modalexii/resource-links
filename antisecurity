@@ -12,6 +12,10 @@ Windows
         A python library to manipulate KRB5-related data. Exploits MS14-068 (CVE-2014-6324).
         https://github.com/bidord/pykek
         
+    PowerCat
+        Powershell netcat
+        https://github.com/besimorhino/powercat
+        
 Nix
     
     Collection of Proof of Concepts and Potential Targets for #ShellShocker
